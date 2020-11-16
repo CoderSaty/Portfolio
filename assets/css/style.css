@@ -111,11 +111,11 @@ a {
     }
     .register-button a {
         font-family: 'Roboto';
-        text-align: center;
-        padding-top: 9px;;
+        text-align: center; 
         text-transform: uppercase;
         color: #fff;
         text-decoration: none;
+        
        
     }
     .register-button:hover {

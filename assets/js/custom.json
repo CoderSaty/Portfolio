@@ -147,19 +147,22 @@
             "name": "chapter",
             "pos": "Competitive Programing Lead",
             "time": "Nov 2020-present",
-            "des": "I am responsible for conducting different activities and engagements to to build a Competitive Programing culture in my college by Organizing events, meetups, and speaker sessions on campus to raise awareness about CP and to create questions for contests and competitions organized on codechef."
+            "des": "I am responsible for conducting different activities and engagements to to build a Competitive Programing culture in my college by Organizing events, meetups, and speaker sessions on campus to raise awareness about CP and to create questions for contests and competitions organized on codechef.",
+            "link": "https://www.codechef.com/college-chapter/about"
         },
         {
             "name": "dsc",
             "pos": "Core Member",
             "time": "Sep 2020 - present ",
-            "des": "I am resposible to help my peers learn and connect and to grow as a community and practice google technologies under the guidance of Google."
+            "des": "I am resposible to help my peers learn and connect and to grow as a community and practice google technologies under the guidance of Google.",
+            "link": "https://dsc.community.dev/madan-mohan-malaviya-university-of-technology/"
         },
         {
             "name": "ces",
             "pos": "Executive Member",
             "time": "Jul 2019 - Jul 2020",
-            "des": "As an Executive member of this society we organize different college level events related to computer science and engineering. We organize all this events under the two main events MATRIX and ENNEXUS"
+            "des": "As an Executive member of this society we organize different college level events related to computer science and engineering. We organize all this events under the two main events MATRIX and ENNEXUS",
+            "link": "https://www.linkedin.com/company/cesmmmut/"
         }
     ],
     "blog": [

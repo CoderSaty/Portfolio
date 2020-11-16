@@ -142,7 +142,7 @@ function loadPortfolio() {
         $(".exp-group").append(
             "<div class='panel'>" +
             "<h4>" +
-            "<a  href='https://www.codechef.com/college-chapter/about' target='_blank'>" +
+            "<a href=" + exp[i].link + " target='_newtab'>" +
             "<img class='skillImg' src='assets/img/exp/" + exp[i].name + ".png'>" + "</h4>" + "</a>" +
             "<p>  " + exp[i].pos + "<br>" + exp[i].des + "<br> " + exp[i].time + "</p>" +
             "</div>"
