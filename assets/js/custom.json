@@ -1,0 +1,187 @@
+{
+    "subtitles": [
+        "Competitive Programmer",
+        "Software Engineer",
+        "MERN Stack Developer",
+        "Malviyan",
+        "Lucknowite",
+        "Cricket and Politics Fan",
+        "Problem Solver"
+    ],
+    "projects": [
+        {
+            "title": "MMMUT CGPA Calculator",
+            "desc": "An interactive website made using HTML5, CSS, JS and Bootstrap to calculate the CGPA and SGPA of MMMUT B.Tech. students of MMMUT used by over  200+ people. ",
+            "img": "cgpacalculator.png",
+            "link": "https://codersaty.github.io/cgpacalculator/"
+        },
+        {
+            "title": "Codechef MMMUT Chapter",
+            "desc": "A single page website made using HTML5, CSS, Bootstrap and JS to showcase the important information about the chapter.Planning to add some more features to it in future.",
+            "img": "chapter.png",
+            "link": "https://chefmmmutchapter.tech/"
+        },
+        {
+            "title": "Codersaty Help",
+            "desc": "A website to list all the important resouces that were helpful for me in my B.TECh. . The site is currently under the devlopment phase.",
+            "img": "construction.png",
+            "link": "https://codersaty.github.io"
+        },
+        {
+            "title": "Codersaty Bots",
+            "desc": "A website to showcase the collection of scripts written/used by me to automate someting.",
+            "img": "construction.png",
+            "link": "https://codersaty.github.io"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data-Structure",
+            "desc": "Data Structure & Algorithm",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "cp",
+            "desc": "Competitive Programming",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "web",
+            "desc": "Full Stack(MERN) Development ",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "dbms",
+            "desc": "DataBase Management",
+            "per": "★★★☆☆"
+        }
+    ],
+    "langauge": [
+        {
+            "name": "c",
+            "desc": "C Langauge",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "cpp",
+            "desc": "C++ Langauge",
+            "per": "★★★★★"
+        },
+        {
+            "name": "py",
+            "desc": "python",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "js",
+            "desc": "JavaScript",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "SQL",
+            "desc": "Structured Query Language",
+            "per": "★★★☆☆"
+        }
+    ],
+    "development": [
+        {
+            "name": "html",
+            "desc": "Hypertext Markup Language",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "css",
+            "desc": "Cascading Style Sheets",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "bootstrap",
+            "desc": "Bootstrap",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "react",
+            "desc": "React",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "jquery",
+            "desc": "Jquery",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "nodejs",
+            "desc": "Node.js",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "markdown",
+            "desc": "Markdown",
+            "per": "★★★☆☆"
+        }
+    ],
+    "tools": [
+        {
+            "name": "git",
+            "desc": "Git",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "github",
+            "desc": "Github",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "office",
+            "desc": "MS-Office",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "vscode",
+            "desc": "VS-Code",
+            "per": "★★★★☆"
+        }
+    ],
+    "exp": [
+        {
+            "name": "chapter",
+            "pos": "Competitive Programing Lead",
+            "time": "Nov 2020-present",
+            "des": "I am responsible for conducting different activities and engagements to to build a Competitive Programing culture in my college by Organizing events, meetups, and speaker sessions on campus to raise awareness about CP and to create questions for contests and competitions organized on codechef."
+        },
+        {
+            "name": "dsc",
+            "pos": "Core Member",
+            "time": "Sep 2020 - present ",
+            "des": "I am resposible to help my peers learn and connect and to grow as a community and practice google technologies under the guidance of Google."
+        },
+        {
+            "name": "ces",
+            "pos": "Executive Member",
+            "time": "Jul 2019 - Jul 2020",
+            "des": "As an Executive member of this society we organize different college level events related to computer science and engineering. We organize all this events under the two main events MATRIX and ENNEXUS"
+        }
+    ],
+    "blog": [
+        {
+            "title": "Accept All Pending Connection Request at Once.",
+            "img": "construction.png",
+            "link": "https://codersaty.github.io/cgpacalculator/"
+        },
+        {
+            "title": "Why itr+2 (iterator) work on vector and not on set?",
+            "img": "construction.png",
+            "link": "https://chefmmmutchapter.tech/"
+        },
+        {
+            "title": "How To Increase The Size of Bootstrap Badge Pill?",
+            "img": "construction.png",
+            "link": "https://codersaty.github.io"
+        },
+        {
+            "title": "codeforces question",
+            "img": "construction.png",
+            "link": "https://codersaty.github.io"
+        }
+    ]
+}
