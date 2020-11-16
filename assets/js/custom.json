@@ -78,7 +78,7 @@
             "per": "★★★☆☆"
         },
         {
-            "name": "SQL",
+            "name": "sql",
             "desc": "Structured Query Language",
             "per": "★★★☆☆"
         }
@@ -167,24 +167,19 @@
     ],
     "blog": [
         {
-            "title": "Accept All Pending Connection Request at Once.",
-            "img": "construction.svg",
-            "link": "https://codersaty.github.io/cgpacalculator/"
+            "title": "How to accept all pending connection requests on Linkedin at once?",
+            "img": "blog1.jpg",
+            "link": "https://medium.com/@codersaty/how-to-accept-all-pending-connection-request-on-linkedin-at-once-738c01cebedf"
         },
         {
-            "title": "Why itr+2 (iterator) work on vector and not on set?",
-            "img": "construction.svg",
-            "link": "https://chefmmmutchapter.tech/"
+            "title": "Awesome Javascript Animation Libraries for Web Developers",
+            "img": "blog2.png",
+            "link": "https://medium.com/@codersaty/awesome-javascript-animation-libraries-for-web-developers-283e5e8728d5"
         },
         {
-            "title": "How To Increase The Size of Bootstrap Badge Pill?",
-            "img": "construction.svg",
-            "link": "https://codersaty.github.io"
-        },
-        {
-            "title": "codeforces question",
-            "img": "construction.svg",
-            "link": "https://codersaty.github.io"
+            "title": "If the team you coach required 400 runs in a 50 over match, which top 7 would you have?",
+            "img": "blog3.jpg",
+            "link": "https://qr.ae/pNUeXc"
         }
     ]
 }
