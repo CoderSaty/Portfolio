@@ -84,12 +84,13 @@ function loadPortfolio() {
     // filling project sidebar
     for (var i = 0; i < projects.length; i++) {
         $("#sidebar-right").append(
-            "<div class='project'>" +
+            "<div class='project'>" + "<h4>" +
             "<a href=" + projects[i].link + " target='_newtab'>" +
             "<img class='projectImg' src='assets/img/projects/" + projects[i].img + "'>" +
             "</a>" +
-            "<h4>" + projects[i].title + "</h4>" +
-            "<h5>" + projects[i].desc + "</h5>" +
+            "</h4>" +
+            "<h5>" + projects[i].title + "</h5>" +
+            "<p>" + projects[i].desc + "</p>" +
             "</div>"
         );
     }
@@ -99,7 +100,7 @@ function loadPortfolio() {
             "<div class='panel'>" +
             "<h4>" +
             "<img class='skillImg' src='assets/img/skills/" + skills[i].name + ".svg'>" + "</h4>" +
-            "<p>  " + skills[i].desc + "<br> " + skills[i].per + "</p>" +
+            "<p>  " + skills[i].desc + "</p>" +
             "</div>"
         );
     }
@@ -110,7 +111,7 @@ function loadPortfolio() {
             "<div class='panel'>" +
             "<h4>" +
             "<img class='skillImg' src='assets/img/skills/" + langauge[i].name + ".png'>" + "</h4>" +
-            "<p>  " + langauge[i].desc + "<br> " + langauge[i].per + "</p>" +
+            "<p>  " + langauge[i].desc + "</p>" +
             "</div>"
         );
     }
@@ -121,7 +122,7 @@ function loadPortfolio() {
             "<div class='panel'>" +
             "<h4>" +
             "<img class='skillImg' src='assets/img/skills/" + development[i].name + ".png'>" + "</h4>" +
-            "<p>  " + development[i].desc + "<br> " + development[i].per + "</p>" +
+            "<p>  " + development[i].desc + "</p>" +
             "</div>"
         );
     }
@@ -132,7 +133,7 @@ function loadPortfolio() {
             "<div class='panel'>" +
             "<h4>" +
             "<img class='skillImg' src='assets/img/skills/" + tool[i].name + ".png'>" + "</h4>" +
-            "<p>  " + tool[i].desc + "<br> " + tool[i].per + "</p>" +
+            "<p>  " + tool[i].desc + "</p>" +
             "</div>"
         );
     }
@@ -151,10 +152,11 @@ function loadPortfolio() {
     for (var i = 0; i < blog.length; i++) {
         $(".blog-group").append(
             "<div class='project'>" +
+            "<h4>" +
             "<a href=" + blog[i].link + " target='_newtab'>" +
             "<img class='projectImg' src='assets/img/blog/" + blog[i].img + "'>" +
-            "</a>" +
-            "<h4>" + blog[i].title + "</h4>" +
+            "</a>" + "</h4>" +
+            "<h5>" + blog[i].title + "</h5>" +
             "</div>"
         );
 

@@ -69,7 +69,7 @@ h3 {
     margin-top:1rem;
     font-size: 3rem;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #f00;
 }
 h4 {
     font-size: 1.4rem;
@@ -227,6 +227,17 @@ a {
     }
     .arrow {
         margin: 2rem -5px;
+    }
+    .panel,.project{
+        border-bottom: 1px solid rgb(129, 34, 34);
+        
+    }
+    .panel h4,.project h4{
+        
+        padding-top:2rem;
+    }
+    .project p{
+        color:#60d4ff;
     }
 /* arrow and sidebar done */
 /* make responsive */
