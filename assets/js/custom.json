@@ -165,22 +165,22 @@
     "blog": [
         {
             "title": "Accept All Pending Connection Request at Once.",
-            "img": "construction.png",
+            "img": "construction.svg",
             "link": "https://codersaty.github.io/cgpacalculator/"
         },
         {
             "title": "Why itr+2 (iterator) work on vector and not on set?",
-            "img": "construction.png",
+            "img": "construction.svg",
             "link": "https://chefmmmutchapter.tech/"
         },
         {
             "title": "How To Increase The Size of Bootstrap Badge Pill?",
-            "img": "construction.png",
+            "img": "construction.svg",
             "link": "https://codersaty.github.io"
         },
         {
             "title": "codeforces question",
-            "img": "construction.png",
+            "img": "construction.svg",
             "link": "https://codersaty.github.io"
         }
     ]
