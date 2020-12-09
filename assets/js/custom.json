@@ -144,6 +144,13 @@
     ],
     "exp": [
         {
+            "name": "geeks",
+            "pos": "Technical Content Writer",
+            "time": "Dec 2020-present",
+            "des": "I am responsible to write articles and improve article on GeeksForGeeks Platform on various topics like Data Structure, C , C++, Algorithms, Web Developement and Mathematics.",
+            "link": "https://auth.geeksforgeeks.org/user/CoderSaty/articles"
+        },
+        {
             "name": "chapter",
             "pos": "Competitive Programing Lead",
             "time": "Nov 2020-present",
@@ -167,9 +174,9 @@
     ],
     "blog": [
         {
-            "title": "How to change the size of a bootstrap pill badge?",
+            "title": "All articles on GeeksforGeeks.",
             "img": "blog4.png",
-            "link": "https://www.geeksforgeeks.org/how-to-change-the-size-of-a-bootstrap-pill-badge/"
+            "link": "https://auth.geeksforgeeks.org/user/CoderSaty/articles"
         },
         {
             "title": "How to accept all pending connection requests on Linkedin at once?",
