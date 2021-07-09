@@ -23,7 +23,7 @@
         {
             "title": "Diary Web App",
             "desc": "Created a web app using Nodejs and express for back-end in which a user can create, read, update and delete (CRUD) a blog. Designed the front end using technologies like Bootstrap, HTML, CSS and templating language EJS. Tech Used: HTML , CSS , Bootstrap , EJS , Nodejs , Express. (The project is in the development phase)",
-            "img": "DiaryWebApp.png",
+            "img": "DiaryWebApp.PNG",
             "link": "https://guarded-reef-52186.herokuapp.com/"
         },
         {
@@ -188,7 +188,7 @@
         },
         {
             "title": "DSA and Programming Blogs",
-            "img": "blog1.png",
+            "img": "blog1.PNG",
             "link": "https://medium.com/@codersaty/how-to-accept-all-pending-connection-request-on-linkedin-at-once-738c01cebedf"
         },
         {
@@ -198,7 +198,7 @@
         },
         {
             "title": "My Quora Answers",
-            "img": "blog3.png",
+            "img": "blog3.PNG",
             "link": "https://www.quora.com/profile/Anuranjan-Srivastava-7"
         }
     ]
