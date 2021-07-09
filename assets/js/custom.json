@@ -5,31 +5,30 @@
         "MERN Stack Developer",
         "Malviyan",
         "Lucknowite",
-        "Cricket and Politics Fan",
         "Problem Solver"
     ],
     "projects": [
         {
             "title": "MMMUT CGPA Calculator",
-            "desc": "An interactive website made using HTML5, CSS, JS and Bootstrap to calculate the CGPA and SGPA of MMMUT B.Tech. students of MMMUT used by over  200+ people. ",
+            "desc": "An interactive website made using HTML5, CSS, JS and Bootstrap to calculate the CGPA and SGPA of MMMUT B.Tech. students of MMMUT used by over  600+ people. ",
             "img": "cgpacalculator.png",
             "link": "https://codersaty.github.io/cgpacalculator/"
         },
         {
-            "title": "Codechef MMMUT Chapter",
-            "desc": "A single page website made using HTML5, CSS, Bootstrap and JS to showcase the important information about the chapter.Planning to add some more features to it in future.",
-            "img": "chapter.png",
-            "link": "https://chefmmmutchapter.tech/"
+            "title": "Level 0 Portfolio",
+            "desc": "Created an interactive website from scratch using HTML5 and CSS to list all the projects developed as a beginner while learning any new technology The website lists 10+ projects as well as 30+ blogs on Web Development and Data Structure. Tech Used: HTML , CSS , JavaScript, Nodejs , Reactjs , jQuery ",
+            "img": "level0Portfolio.png",
+            "link": "https://codersaty.netlify.app/"
         },
         {
-            "title": "Codersaty Help",
-            "desc": "A website to list all the important resouces that were helpful for me in my B.TECh. . The site is currently under the devlopment phase.",
-            "img": "construction.png",
-            "link": "https://codersaty.github.io"
+            "title": "Diary Web App",
+            "desc": "Created a web app using Nodejs and express for back-end in which a user can create, read, update and delete (CRUD) a blog. Designed the front end using technologies like Bootstrap, HTML, CSS and templating language EJS. Tech Used: HTML , CSS , Bootstrap , EJS , Nodejs , Express. (The project is in the development phase)",
+            "img": "DiaryWebApp.png",
+            "link": "https://guarded-reef-52186.herokuapp.com/"
         },
         {
-            "title": "Codersaty Bots",
-            "desc": "A website to showcase the collection of scripts written/used by me to automate someting.",
+            "title": "Working on it",
+            "desc": "I am learning something new. If you have an idea or wanna build something together ping me. Let's build something great together.",
             "img": "construction.png",
             "link": "https://codersaty.github.io"
         }
@@ -37,22 +36,27 @@
     "skills": [
         {
             "name": "Data-Structure",
-            "desc": "Data Structure & Algorithm",
+            "desc": "Design & Analysis of Algorithms",
             "per": "★★★★☆"
         },
         {
             "name": "cp",
-            "desc": "Competitive Programming",
+            "desc": "Data Structure",
             "per": "★★★☆☆"
         },
         {
             "name": "web",
-            "desc": "Full Stack(MERN) Development ",
+            "desc": "Object-oriented programming",
             "per": "★★★★☆"
         },
         {
             "name": "dbms",
-            "desc": "DataBase Management",
+            "desc": "Database Management System",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "os",
+            "desc": "Principles of Operating Systems",
             "per": "★★★☆☆"
         }
     ],
@@ -66,11 +70,6 @@
             "name": "cpp",
             "desc": "C++ Langauge",
             "per": "★★★★★"
-        },
-        {
-            "name": "py",
-            "desc": "python",
-            "per": "★★★☆☆"
         },
         {
             "name": "js",
@@ -110,13 +109,23 @@
             "per": "★★★☆☆"
         },
         {
-            "name": "nodejs",
-            "desc": "Node.js",
+            "name": "markdown",
+            "desc": "Markdown",
             "per": "★★★☆☆"
         },
         {
-            "name": "markdown",
-            "desc": "Markdown",
+            "name": "mongodb",
+            "desc": "MongoDB",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "express",
+            "desc": "Express",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "nodejs",
+            "desc": "Node.js",
             "per": "★★★☆☆"
         }
     ],
@@ -145,53 +154,52 @@
     "exp": [
         {
             "name": "geeks",
-            "pos": "Technical Content Writer",
-            "time": "Dec 2020-present",
-            "des": "I am responsible to write articles and improve article on GeeksForGeeks Platform on various topics like Data Structure, C , C++, Algorithms, Web Developement and Mathematics.",
+            "pos": "Intern",
+            "time": "Mar 2021-present",
+            "des": "Coordinated with the Technical Content Engineers team at GeeksforGeeks. Wrote 50+ and improved 30+ articles on Web Development, Data Structures and Algorithms",
             "link": "https://auth.geeksforgeeks.org/user/CoderSaty/articles"
         },
         {
             "name": "chapter",
             "pos": "Competitive Programing Lead",
-            "time": "Nov 2020-present",
-            "des": "I am responsible for conducting different activities and engagements to to build a Competitive Programing culture in my college by Organizing events, meetups, and speaker sessions on campus to raise awareness about CP and to create questions for contests and competitions organized on codechef.",
-            "link": "https://www.codechef.com/college-chapter/about"
-        },
-        {
-            "name": "dsc",
-            "pos": "Core Member",
-            "time": "Sep 2020 - present ",
-            "des": "I am resposible to help my peers learn and connect and to grow as a community and practice google technologies under the guidance of Google.",
-            "link": "https://dsc.community.dev/madan-mohan-malaviya-university-of-technology/"
+            "time": "Nov 2020-May 2021",
+            "des": "Coordinated with Codechef to start a coding club for our college to improve the programming and coding culture of the college, which helped 100+ juniors to start their coding journey. Established a community of 350+ members on Telegram and 175+ subscribers on YouTube",
+            "link": "https://chefmmmutchapter.tech/"
         },
         {
             "name": "ces",
             "pos": "Executive Member",
-            "time": "Jul 2019 - present",
+            "time": "Jul 2019 - May 2020",
             "des": "As an Executive member of this society we organize different college level events related to computer science and engineering. We organize all this events under the two main events MATRIX and ENNEXUS",
             "link": "https://www.linkedin.com/company/cesmmmut/"
+        },
+        {
+            "name": "hire",
+            "pos": "Hire Me",
+            "des": "I am team-oriented, hardworking individual willing to give my 100% for the organization and grow together with the organization. If you think I am a right fit for your organization I will be very happy to work in the organization.",
+            "link": "https://drive.google.com/file/d/1TbSyNmkMR0ddEJvbUceXWDjFbSVzSss7/view"
         }
     ],
     "blog": [
         {
-            "title": "All articles on GeeksforGeeks.",
+            "title": "Web Development Blogs",
             "img": "blog4.png",
-            "link": "https://auth.geeksforgeeks.org/user/CoderSaty/articles"
+            "link": "https://qdl0f.csb.app/"
         },
         {
-            "title": "How to accept all pending connection requests on Linkedin at once?",
-            "img": "blog1.jpg",
+            "title": "DSA and Programming Blogs",
+            "img": "blog1.png",
             "link": "https://medium.com/@codersaty/how-to-accept-all-pending-connection-request-on-linkedin-at-once-738c01cebedf"
         },
         {
-            "title": "Awesome Javascript Animation Libraries for Web Developers",
-            "img": "blog2.png",
-            "link": "https://medium.com/@codersaty/awesome-javascript-animation-libraries-for-web-developers-283e5e8728d5"
+            "title": "All GeeksforGeeks Articles",
+            "img": "blog5.png",
+            "link": "https://auth.geeksforgeeks.org/user/CoderSaty/articles"
         },
         {
-            "title": "If the team you coach required 400 runs in a 50 over match, which top 7 would you have?",
-            "img": "blog3.jpg",
-            "link": "https://qr.ae/pNUeXc"
+            "title": "My Quora Answers",
+            "img": "blog3.png",
+            "link": "https://www.quora.com/profile/Anuranjan-Srivastava-7"
         }
     ]
 }

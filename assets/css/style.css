@@ -103,17 +103,18 @@ a {
         padding:5px;
     }
     .register-button {
-        background: #3e7327;
-        width: 180px;
-        padding: 4px 0;
+        /* background:#6f42c1; */
+        width: 20rem;
+        padding: 0.3rem 0;
         border-radius: 3px;
-        margin:2rem auto;
+        margin:1rem auto;
     }
     .register-button a {
         font-family: 'Roboto';
         text-align: center; 
         text-transform: uppercase;
         color: #fff;
+        font-size: 1.5rem;
         text-decoration: none;
         
        
@@ -261,3 +262,8 @@ a {
     }
 }
 /* make responsive done */
+
+
+.final-link{
+    color:#fff;
+}
